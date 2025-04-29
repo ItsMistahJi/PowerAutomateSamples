@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Recurrence flow - Reminder to Leads
 
 ## Summary
@@ -37,6 +35,3 @@ Sends a personalized, high-importance reminder email from the RDK Connectivity T
 5. Save and enable the flow.
 
 <div style="text-align: center">⁂</div>
-
-[^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/43633442/b187eb39-22de-4269-9c46-64d6375e81ea/definition.json
-
